@@ -1,2 +1,5 @@
 server:
   port: 1001
+proyecto:
+  codigo: 02
+  nombre: nbm-api

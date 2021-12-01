@@ -1,2 +1,5 @@
 server:
   port: 2000
+proyecto:
+  codigo: 01
+  nombre: nbm-core

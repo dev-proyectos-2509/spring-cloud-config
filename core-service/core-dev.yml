@@ -3,3 +3,8 @@ server:
 proyecto:
   codigo: 01
   nombre: nbm-core
+spring:
+  datasource:
+    url: jdbc:sqlserver://5.161.80.133;databaseName=desarrollo
+    username: desauser
+    password: '185qPysi5zs4'  
